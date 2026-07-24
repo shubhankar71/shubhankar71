@@ -22,6 +22,7 @@ I build practical, real-world projects — from computer vision pipelines to bac
 | 👁️ [Real-Time-Face-Detection-System](https://github.com/shubhankar71/Real-Time-Face-Detection-System) | Computer vision pipeline for live video face detection using Haar Cascade |
 | 🧩 [LEETCODE](https://github.com/shubhankar71/LEETCODE) | Ongoing collection of LeetCode solutions, organized by difficulty |
 | 🌐 [Portfolio](https://github.com/shubhankar71/Portfolio) | My personal portfolio website |
+| 🎮 [GAME-DISCOVERER](https://github.com/shubhankar71/GAME-DISCOVERER) | Discovering games using natural language |
 
 ---
 
