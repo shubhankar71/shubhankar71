@@ -55,6 +55,13 @@ I build practical, real-world projects — from computer vision pipelines to AI-
 * Data Structures & Algorithms
 * Designing cleaner and more maintainable backend systems
 
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ### 📫 Let's Connect
 
 Feel free to explore my repos or reach out — always open to collaborating on interesting projects!
