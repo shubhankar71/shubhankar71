@@ -19,11 +19,12 @@ I build practical, real-world projects — from computer vision pipelines to AI-
 
 | Project | Description |
 |---|---|
-| 💵 [Finance-Tracking-Application](https://github.com/shubhankar71/Finance-Tracking-Application) | Async FastAPI backend for tracking income/expenses with JWT auth, OTP-based password reset, and rate limiting. Includes an AI-powered weekly financial review feature: LLM-generated summaries grounded via a RAG pipeline (OpenAI embeddings + cosine similarity retrieval over a budgeting knowledge base), plus one-click PDF report export with charts |
-| 👁️ [Real-Time-Face-Detection-System](https://github.com/shubhankar71/Real-Time-Face-Detection-System) | Computer vision pipeline for live video face detection using Haar Cascade |
+| 🎮 [Web-Strazz](https://github.com/shubhankar71/GAME-DISCOVERER) | Discovering games using natural language |
+| 💵 [Finance-Tracking-Application](https://github.com/shubhankar71/Expense-Tracker-and-Analyzer) | Async FastAPI backend for tracking income/expenses with JWT auth, OTP-based password reset, and rate limiting. Includes an AI-powered weekly financial review feature: LLM-generated summaries grounded via a RAG pipeline (OpenAI embeddings + cosine similarity retrieval over a budgeting knowledge base), plus one-click PDF report export with charts |
+| 👁️ [Dental-Lesion-Segmentation](https://github.com/shubhankar71/Dental-Lesion-Segmentation) | A deep learning-based medical image segmentation project for detecting and segmenting dental cavities/lesions from Orthopantomogram (OPG) panoramic X-ray images. |
 | 🧩 [LEETCODE](https://github.com/shubhankar71/LEETCODE) | Ongoing collection of LeetCode solutions, organized by difficulty |
 | 🌐 [Portfolio](https://github.com/shubhankar71/Portfolio) | My personal portfolio website |
-| 🎮 [GAME-DISCOVERER](https://github.com/shubhankar71/GAME-DISCOVERER) | Discovering games using natural language |
+| 🧾 [Receipt OCR & Information Extraction](https://github.com/shubhankar71/Receipt-OCR-and-Information-Extraction) | An OCR-based system that automatically reads receipt images and extracts useful information such as store name, date, total amount, and purchased items. |
 
 ---
 ## Tech Stack
