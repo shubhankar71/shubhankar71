@@ -20,7 +20,7 @@ I build practical, real-world projects — from computer vision pipelines to AI-
 
 | Project | Description |
 |---|---|
-| 🎮 [Web-Strazz](https://github.com/shubhankar71/GAME-DISCOVERER) | Discovering games using natural language |
+| 🎮 [Web-Strazz](https://github.com/shubhankar71/Web-Strazz) | Web Starzz is a React portfolio demonstration for investigating recorded application sessions, event timelines, error groups, performance signals, and investigation records. |
 | 💵 [Finance-Tracking-Application](https://github.com/shubhankar71/Expense-Tracker-and-Analyzer) | Async FastAPI backend for tracking income/expenses with JWT auth, OTP-based password reset, and rate limiting. Includes an AI-powered weekly financial review feature: LLM-generated summaries grounded via a RAG pipeline (OpenAI embeddings + cosine similarity retrieval over a budgeting knowledge base), plus one-click PDF report export with charts |
 | 👁️ [Dental-Lesion-Segmentation](https://github.com/shubhankar71/Dental-Lesion-Segmentation) | A deep learning-based medical image segmentation project for detecting and segmenting dental cavities/lesions from Orthopantomogram (OPG) panoramic X-ray images. |
 | 🧩 [LEETCODE](https://github.com/shubhankar71/LEETCODE) | Ongoing collection of LeetCode solutions, organized by difficulty |
